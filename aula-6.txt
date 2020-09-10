@@ -1,0 +1,26 @@
+###mostra a soma do valor entre eles ###
+
+n1 = int(input('Informe o 1º valor: '))
+n2 = int(input('Iforme o 2º Valor: '))
+
+soma = n1 + n2
+
+print ('A soma entre {} e {} vale {}'.format(n1, n2, soma))
+
+##########################################################
+n = input('Digite algo: ')
+print (n.isalnum())
+
+n = input('Digite algo: ')
+print(n.isupper())
+
+n = input('Digite algo: ')
+print (n.isalpha())
+
+n = input('Digite algo: ')
+print(n.islower())
+
+n = input('Digite algo: ')
+print(n.isdecimal())
+
+###########################################################
